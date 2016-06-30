@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -Y -DL -O11111115 -fo48 -N"D:\Kuliah\Test dummy\MikroC\ADC Linearity\ADC Linearity.mcppi" -SP"C:\Users\Anonymous\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Anonymous\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Kuliah\Test dummy\MikroC\ADC Linearity\" "ADC Linearity.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ADC Linearity.c
+diagnostics: 56	123	Compiled Successfully	ADC Linearity.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 31 (2%)  Free RAM (bytes): 1996 (98%)	Used RAM (bytes): 31 (2%)  Free RAM (bytes): 1996 (98%)
+hint: 0	1144	Used ROM (bytes): 1516 (5%)  Free ROM (bytes): 31252 (95%)	Used ROM (bytes): 1516 (5%)  Free ROM (bytes): 31252 (95%)
+diagnostics: 0	125	Project Linked Successfully	ADC Linearity.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'ADC Linearity.mcppi' completed: 281 ms	 
+diagnostics: 0	103	Finished successfully: 16 Jun 2016, 14:06:00	ADC Linearity.mcppi
